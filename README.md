@@ -1,5 +1,7 @@
-Match Delimiters
+Matching Delimiters
 ================
+
+![Example of matching](example.png)
 
 An Xcode plugin to highlight matched delimiters. A hobby/side project so don't get your hopes up :)
 
