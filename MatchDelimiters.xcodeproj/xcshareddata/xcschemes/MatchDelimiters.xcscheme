@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "890A4B3E171F031300AFE577"
+               BlueprintIdentifier = "220AAC0F1A882696007A13E4"
                BuildableName = "MatchDelimiters.xcplugin"
                BlueprintName = "MatchDelimiters"
                ReferencedContainer = "container:MatchDelimiters.xcodeproj">
@@ -61,7 +61,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "890A4B3E171F031300AFE577"
+            BlueprintIdentifier = "220AAC0F1A882696007A13E4"
             BuildableName = "MatchDelimiters.xcplugin"
             BlueprintName = "MatchDelimiters"
             ReferencedContainer = "container:MatchDelimiters.xcodeproj">
